@@ -12,7 +12,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.parser.ParseException;
 import org.json.simple.parser.JSONParser;
 
-public MovieSearch
+public Main
 {
 	
 }
